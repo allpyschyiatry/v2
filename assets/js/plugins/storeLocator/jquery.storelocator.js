@@ -30,7 +30,7 @@
 		'autoGeocode'                : false,
 		'bounceMarker'               : true, // Deprecated.
 		'catMarkers'                 : null,
-		'dataLocation'               : 'data/locations.json',
+		'dataLocation'               : 'https://website-tau-wine-22.vercel.app/data/locations.json',
 		'dataRaw'                    : null,
 		'dataType'                   : 'json',
 		'debug'                      : false,
@@ -102,10 +102,10 @@
 		'sortID'                  : 'bh-sl-sort',
 		'taxonomyFiltersContainer': 'bh-sl-filters-container',
 		// Templates
-		'infowindowTemplatePath'   : 'assets/js/plugins/storeLocator/templates/infowindow-description.html',
-		'listTemplatePath'         : 'assets/js/plugins/storeLocator/templates/location-list-description.html',
-		'KMLinfowindowTemplatePath': 'assets/js/plugins/storeLocator/templates/kml-infowindow-description.html',
-		'KMLlistTemplatePath'      : 'assets/js/plugins/storeLocator/templates/kml-location-list-description.html',
+		'infowindowTemplatePath'   : 'https://website-tau-wine-22.vercel.app/assets/js/plugins/storeLocator/templates/infowindow-description.html',
+		'listTemplatePath'         : 'https://website-tau-wine-22.vercel.app/assets/js/plugins/storeLocator/templates/location-list-description.html',
+		'KMLinfowindowTemplatePath': 'https://website-tau-wine-22.vercel.app/assets/js/plugins/storeLocator/templates/kml-infowindow-description.html',
+		'KMLlistTemplatePath'      : 'https://website-tau-wine-22.vercel.app/assets/js/plugins/storeLocator/templates/kml-location-list-description.html',
 		'listTemplateID'           : null,
 		'infowindowTemplateID'     : null,
 		// Callbacks
